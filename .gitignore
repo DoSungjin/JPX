@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# ETC
+.DS_Store
+/jpx-tokyo-stock-exchange-prediction/
