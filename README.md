@@ -94,23 +94,23 @@ Within bottom 200 stocks predicted ( downi(i=1,2,…,200) ), multiply by their r
 ![image](https://user-images.githubusercontent.com/100894816/177026600-638b4c57-75e5-4ac2-a711-3c7bb8545e61.png)
 
 <<< _predictor_model >>>
-score -> 4.320905037331315
-mean  -> 13.720639712154265
-std   -> 3.1754087612692437
+ - score -> 4.320905037331315
+ - mean  -> 13.720639712154265
+ - std   -> 3.1754087612692437
 
 
 <<< _predictor_model_with_adjuster >>>
-score -> 5.714972425326807
-mean  -> 7.820889127307698
-std   -> 1.368491139633183
+  - score -> 5.714972425326807
+  - mean  -> 7.820889127307698
+  - std   -> 1.368491139633183
 
 <<< _predictor_target >>>
-score -> 4.854775476521634
-mean  -> 15.221062190989013
-std   -> 3.135276237716899
+  - score -> 4.854775476521634
+  - mean  -> 15.221062190989013
+  - std   -> 3.135276237716899
 
 <<< _predictor_target_with_adjuster >>>
-score -> 7.28977612836715
-mean  -> 10.915641043635977
-std   -> 1.4973904344139293
+  - score -> 7.28977612836715
+  - mean  -> 10.915641043635977
+  - std   -> 1.4973904344139293
 
