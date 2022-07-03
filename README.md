@@ -49,17 +49,49 @@ Within bottom 200 stocks predicted ( downi(i=1,2,…,200) ), multiply by their r
 - Target value composition
 - ![image](https://user-images.githubusercontent.com/100894816/177025325-a720bb14-589a-48c9-85c2-2b0ba4744e6a.png)
 - ![image](https://user-images.githubusercontent.com/100894816/177025355-50eaa679-29b7-4981-a135-06b08fa5cfa1.png)
-- ![image](https://user-images.githubusercontent.com/100894816/177025366-51e11a27-ed81-49fb-bec1-4f7813363e27.png)
-- ![image](https://user-images.githubusercontent.com/100894816/177025383-ae25ffeb-49bc-415c-a057-4501c594ac97.png)
-- ![image](https://user-images.githubusercontent.com/100894816/177025391-2f0e4ab4-9930-4c47-aa13-63d51668b2af.png)
-- ![image](https://user-images.githubusercontent.com/100894816/177025394-cb776b4f-3a08-434e-ba30-af18601a0691.png)
-- ![image](https://user-images.githubusercontent.com/100894816/177025398-a28be0f5-8791-45fd-851b-78f174501f22.png)
-- ![image](https://user-images.githubusercontent.com/100894816/177025803-ba782444-9c80-4ed3-a217-9a5cd6c43b7a.png)
-- ![image](https://user-images.githubusercontent.com/100894816/177025811-72fd86b1-8e07-424b-bcce-3b8297d20a29.png)
-- ![image](https://user-images.githubusercontent.com/100894816/177025817-323497af-adef-46dc-9595-7ab8a71c7b56.png)
-- ![image](https://user-images.githubusercontent.com/100894816/177025821-20a46a90-bae4-467e-a4b3-83b12c1f078f.png)
-- ![image](https://user-images.githubusercontent.com/100894816/177025823-3a69ce71-26da-442e-a046-415e029fb8ac.png)
+- ![image](https://user-images.githubusercontent.com/100894816/177026494-45513b09-709e-4b2e-aab9-433ceb353a61.png)
+![image](https://user-images.githubusercontent.com/100894816/177026500-d7de21f3-c6b2-459c-b285-06aa27066cdf.png)
+![image](https://user-images.githubusercontent.com/100894816/177026505-95000ad1-ff6a-4f43-b25e-5c2b6a815515.png)
+![image](https://user-images.githubusercontent.com/100894816/177026506-59d7ba68-a2d6-4150-a99b-c2e9c62ba657.png)
+![image](https://user-images.githubusercontent.com/100894816/177026509-3a301c61-7291-438e-bd61-f3ab5a7b6482.png)
 
+- ![image](https://user-images.githubusercontent.com/100894816/177026513-1a0ce619-120c-4875-97a4-0a5c7babac3c.png)
+- ![image](https://user-images.githubusercontent.com/100894816/177026516-ccfa8687-35d8-4f79-abc8-3c4e8f284c04.png)
+
+- ![image](https://user-images.githubusercontent.com/100894816/177026521-b0430131-edc2-40a9-8ed4-6a2ce18df105.png)
+![image](https://user-images.githubusercontent.com/100894816/177026524-2ce8f6c7-75f0-4f45-813d-61c1946e4020.png)
+![image](https://user-images.githubusercontent.com/100894816/177026526-42211fc6-3dc9-4f14-a491-f6e4fb79a620.png)
+![image](https://user-images.githubusercontent.com/100894816/177026530-a29b21f2-5338-41e2-b8c7-629514bd4a7e.png)
+![image](https://user-images.githubusercontent.com/100894816/177026534-1c963d1d-1573-4e8a-b2c2-a61fa610f206.png)
+
+- ![image](https://user-images.githubusercontent.com/100894816/177026535-c9a7d6ae-d0e4-40d1-8a7a-ef7dce305d61.png)
+- ![image](https://user-images.githubusercontent.com/100894816/177026538-4736f83b-82f8-4b99-9af0-522d209a1233.png)
+ 
+- ![image](https://user-images.githubusercontent.com/100894816/177026546-790a64b0-5d4e-4a8c-9003-de1aded2cc35.png)
+![image](https://user-images.githubusercontent.com/100894816/177026549-cf68d732-6260-42ac-8716-a9694cab8ea1.png)
+![image](https://user-images.githubusercontent.com/100894816/177026552-3b34f550-8f46-4300-ba30-d3b7307e8c20.png)
+![image](https://user-images.githubusercontent.com/100894816/177026554-2e39f9ff-74af-4b99-a246-45fbdbd57bd9.png)
+![image](https://user-images.githubusercontent.com/100894816/177026560-44df3bd0-04c2-495d-9d39-aa119f06ae5e.png)
+
+- ![image](https://user-images.githubusercontent.com/100894816/177026566-c7ed4ce4-d845-4ae3-a2e5-69607efe4049.png)
+![image](https://user-images.githubusercontent.com/100894816/177026568-d66db66f-9427-4c56-93ec-b82bb85ebd6c.png)
+![image](https://user-images.githubusercontent.com/100894816/177026571-eec107a7-3161-4f12-8e9e-723a8640d1ab.png)
+![image](https://user-images.githubusercontent.com/100894816/177026572-f5cb4f70-fa94-47e5-a32b-d6edf18f673f.png)
+![image](https://user-images.githubusercontent.com/100894816/177026574-0325566a-1c1b-482a-a8f2-b165ec437999.png)
+
+- ![image](https://user-images.githubusercontent.com/100894816/177026576-e112c4f3-8706-4dce-9c5f-291cb6825088.png)
+![image](https://user-images.githubusercontent.com/100894816/177026578-50b6f1de-2fd4-4192-a9ab-e7057503b72d.png)
+![image](https://user-images.githubusercontent.com/100894816/177026580-dbec26c9-bbf8-4e19-95a2-5fde8e8c8842.png)
+![image](https://user-images.githubusercontent.com/100894816/177026581-cadf60cc-51f3-4d28-bbee-683d0af0fd88.png)
+![image](https://user-images.githubusercontent.com/100894816/177026583-26033472-41f1-4aff-993f-a6c896051318.png)
+
+- ![image](https://user-images.githubusercontent.com/100894816/177026589-3c66ef2d-1685-4b2a-bdf8-2537ccb0d042.png)
+
+- ![image](https://user-images.githubusercontent.com/100894816/177026593-72e4f5b3-ff66-4003-95e6-5f00b5e92413.png)
+![image](https://user-images.githubusercontent.com/100894816/177026594-69aa826e-a2fa-4b2a-b1b8-06af873f0a6d.png)
+![image](https://user-images.githubusercontent.com/100894816/177026596-7b2e1db4-bcd2-4dbc-bbeb-5544ae6b056d.png)
+![image](https://user-images.githubusercontent.com/100894816/177026598-78f08038-d9ba-483d-87ed-555c117f793f.png)
+![image](https://user-images.githubusercontent.com/100894816/177026600-638b4c57-75e5-4ac2-a711-3c7bb8545e61.png)
 
 <<< _predictor_model >>>
 score -> 4.320905037331315
